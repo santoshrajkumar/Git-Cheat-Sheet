@@ -75,6 +75,15 @@ git commit -m 'first commit'
   </kbd>
 </p>
 * Finally, push it using command:
+
 ``
 git push -u origin master
 ``
+
+* Congratulations ! You have successfully committed files in your local machine to the github.com repository.
+
+<p align="center"> 
+  <kbd>
+    <img src="img/git4.PNG">
+  </kbd>
+</p>
