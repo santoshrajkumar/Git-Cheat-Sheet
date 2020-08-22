@@ -40,6 +40,6 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
 
 <p align="center"> 
   <kbd>
-    <img src="img/git2.png">
+    <img src="img/git2.PNG">
   </kbd>
 </p>
