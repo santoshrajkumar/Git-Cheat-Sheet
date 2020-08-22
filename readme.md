@@ -1,8 +1,6 @@
 # The Git Cheat Sheet
 
-> https://santoshrajkumar.github.io
-
-* [<b>Materialize</b>](https://materializecss.com/) 
+> by [<b>S M rajkumar</b>](https://santoshrajkumar.github.io) 
 
 
 ![GitHub stars](https://img.shields.io/github/stars/santoshrajkumar/Git-Cheat-Sheet) 
