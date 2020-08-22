@@ -54,6 +54,7 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
     <img src="img/cmd.PNG">
   </kbd>
 </p>
+
 * Initialize the repository with command:
 ```
 git init
