@@ -45,3 +45,12 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
 </p>
 * Your repository may be private or public. 
 * To add a collaborator to your repository, go to settings inside the repository. Then select manage access and then invite your fellow collaborator.
+
+
+## Pushing your codes to your empty GitHub repository
+* Create any folder in your local machine. Then go inside that folder from command prompt/terminal. An instance in windows machine for a folder in desktop namely 'git-test' is shown below:
+<p align="center"> 
+  <kbd>
+    <img src="img/cmd.PNG">
+  </kbd>
+</p>
