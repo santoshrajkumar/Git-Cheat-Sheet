@@ -70,6 +70,6 @@ git commit -m 'first commit'
 * Go to your empty repo inbside github.com, the highlighted part is the address of your repository, copy it:
 <p align="center"> 
   <kbd>
-    <img src="img/git3.PNG">
+    <img src="img/git3.png">
   </kbd>
 </p>
