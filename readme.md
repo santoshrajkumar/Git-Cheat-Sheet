@@ -67,9 +67,13 @@ git add .
 ```
 git commit -m 'first commit'
 ```
-* Go to your empty repo inbside github.com, the highlighted part is the address of your repository, copy it:
+* Go to your empty repo inbside github.com, the highlighted part is the address of your repository, copy it and paste it in command:
 <p align="center"> 
   <kbd>
     <img src="img/git3.png">
   </kbd>
 </p>
+* Finally, push it using command:
+``
+git push -u origin master
+``
