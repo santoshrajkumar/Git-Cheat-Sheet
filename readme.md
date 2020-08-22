@@ -66,7 +66,7 @@ git add .
 ```
 * For commiting, enetr in command:
 ```
-git commit -m 'first commit'
+git commit -m 'first'
 ```
 * Go to your empty repo inbside github.com, the highlighted part is the address of your repository, copy it and paste it in command:
 <p align="center"> 
@@ -74,6 +74,7 @@ git commit -m 'first commit'
     <img src="img/git3.png">
   </kbd>
 </p>
+
 * Finally, push it using command:
 
 ``
