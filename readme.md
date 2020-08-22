@@ -2,6 +2,7 @@
 
 > https://santoshrajkumar.github.io
 
+* [<b>Materialize</b>](https://materializecss.com/) 
 
 
 ![GitHub stars](https://img.shields.io/github/stars/santoshrajkumar/Git-Cheat-Sheet) 
