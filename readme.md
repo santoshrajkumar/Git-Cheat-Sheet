@@ -14,3 +14,7 @@
 ```
 git version
 ```
+If it returns something like below, you're done installing.
+```
+git version 2.27.0.windows.1
+```
