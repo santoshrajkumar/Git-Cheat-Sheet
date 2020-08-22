@@ -28,6 +28,7 @@ git config --global user.name "YourName"
 git config --global user.email "yourEmail"
 ```
 ## GitHub
-GitHub is a popular platform for hosting codes of developers collaborating / inside an organization. 
+GitHub is a popular platform for hosting codes of developers collaborating / inside an organization. In github remote repositories can be created to post codes by different collaborators / self.
 * Goto https://github.com/ and sign up for an account
 * Then login to your github account
+* To create one repository,
