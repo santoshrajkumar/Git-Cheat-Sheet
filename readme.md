@@ -54,3 +54,22 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
     <img src="img/cmd.PNG">
   </kbd>
 </p>
+* Initialize the repository with command:
+```
+git init
+```
+* Copy the folder / files you want to push to GitHub repository to the folder (in this case 'git-test'). 
+* Then add all the files inside that folder (type in command):
+```
+git add .
+```
+* For commiting, enetr in command:
+```
+git commit -m 'first commit'
+```
+* Go to your empty repo inbside github.com, the highlighted part is the address of your repository, copy it:
+<p align="center"> 
+  <kbd>
+    <img src="img/git3.PNG">
+  </kbd>
+</p>
