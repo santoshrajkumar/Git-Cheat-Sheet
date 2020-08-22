@@ -11,7 +11,7 @@
 * [<b>Git Download link</b>](https://git-scm.com/downloads). Windows users can directly download & install it. Mac users can install with a minor tweak (explained in the link provided)
 * After installation, restart your computer to make the installation effective.
 * Then go to commdand promt / terminal and type:
-```
+```git
 git version
 ```
 If it returns something like below, you're done installing.
