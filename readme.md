@@ -43,3 +43,5 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
     <img src="img/git2.PNG">
   </kbd>
 </p>
+* Your repository may be private or public. 
+* To add a collaborator to your repository, go to settings inside the repository. Then select manage access and then invite your fellow collaborator.
