@@ -10,7 +10,7 @@
 
 * [<b>Git Download link</b>](https://git-scm.com/downloads). Windows users can directly download & install it. Mac users can install with a minor tweak (explained in the link provided)
 * After installation, restart your computer to make the installation effective.
-* Then go to commdand promt / terminal and type:
+* Then go to command promt / terminal and type:
 ```git
 git version
 ```
@@ -18,3 +18,13 @@ If it returns something like below, you're done installing.
 ```
 git version 2.27.0.windows.1
 ```
+
+## Configuring Git for you
+* Open command prompt / terminal and type:
+```
+git config --global user.name "YourName"
+```
+```
+git config --global user.email "yourEmail"
+```
+
