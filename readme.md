@@ -86,7 +86,7 @@ cat id_rsa.pub
 * One SSH key will come up. Copy that key.
 * Goto your github.com account and then go to account settings. Then select ```SSH and GPG Keys```.
 * The under SSH keys, select new SSH key.
-* Then you'll be promted to enter title & key. You can keep any title. For the key, enter the SSH key previously copied. Then select Add SSH key.
+* Then you'll be promted to enter title & key. You can keep any title. For the key, enter the SSH key previously copied. Then select Add SSH key .
 
 
 
