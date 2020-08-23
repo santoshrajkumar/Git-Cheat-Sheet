@@ -51,6 +51,7 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
 * To add a collaborator to your repository, go to settings inside the repository. Then select manage access and then invite your fellow collaborator.
 
 ## Setting up your SSH key for your GitHub account
+> *** Please skip this step for initial try. If you find errors in pushing files to your GitHub repository, then only proceed with this step.
 
 * In windows machine, search Git from start menu and open Gitbash. For Mac opening terminal will do.
 <p align="center"> 
@@ -67,6 +68,25 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
     <img src="img/bash2.png">
   </kbd>
 </p>
+
+* Check for files & folder list in your user directory by typing command ```ls -la```. If that containts a folder with name ```.ssh``` then navigate to it using ```cd .ssh```. Otherwise create a folder namely .ssh by typing ```mkdir .ssh``` and then navigate to it.
+
+* When you are inside the .ssh folder type the following command:
+```
+ssh-keygen -t rsa
+```
+
+* You'll be promted to enter 3 things, don't type anything, just press enter.
+* Then you type ```ls -la``` to see if there is a file namely ```id_rsa.pub```. If yes, then type the following command:
+
+```
+cat id_rsa.pub
+```
+
+* One SSH key will come up. Copy that key.
+* Goto your github.com account and then go to account settings. Then select ```SSH and GPG Keys```.
+* The under SSH keys, select new SSH key.
+* Then you'll be promted to enter title & key. You can keep any title. For the key, enter the SSH key previously copied. Then select Add SSH key.
 
 
 
