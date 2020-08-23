@@ -19,9 +19,10 @@ If it returns something like below, you're done installing.
 ```
 git version 2.27.0.windows.1
 ```
+* In windows machine you get a terminal with the installation of Git. This is a UNIX based command line. So commands are same in Gitbash with Mac terminal ones.
 
 ## Configuring Git for you
-* Open command prompt / terminal and type:
+* Open command prompt / terminal / GitBash and type:
 ```
 git config --global user.name "YourName"
 ```
