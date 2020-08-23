@@ -59,6 +59,17 @@ GitHub is a popular platform for hosting codes of developers collaborating / ins
   </kbd>
 </p>
 
+* Keep in mind that commands in Gitbash & Mac terminal are same
+* Inside Gitbash / Terminal type ``` pwd ``` & press enter. You should be in your user directory. If not, then navigate to your user directory.
+
+<p align="center"> 
+  <kbd>
+    <img src="img/bash2.png">
+  </kbd>
+</p>
+
+
+
 ## Pushing your codes to your empty GitHub repository
 * Create any folder in your local machine. Then go inside that folder from command prompt/terminal. An instance in windows machine for a folder in desktop namely 'git-test' is shown below:
 <p align="center"> 
