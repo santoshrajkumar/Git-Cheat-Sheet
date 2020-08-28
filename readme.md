@@ -179,3 +179,9 @@ git commit -m 'yourOwnRefernceWords'
 git push -u origin master
 ```
 * Congratulations, you have successfully updated files / folders of a remote repository.
+
+<p align="center"> 
+  <kbd>
+    <img src="img/clone4.png">
+  </kbd>
+</p>
