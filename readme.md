@@ -131,3 +131,51 @@ git push -u origin master
     <img src="img/git4.PNG">
   </kbd>
 </p>
+
+## Changing files / uploading new files in a non-empty GitHub Repo
+
+* Please keep in mind that you can do so to your own repo and the repos where you are added as collaborator.
+
+* Go to the repo and copy and click on code, a drop-down will appear. Copy the remote repo link. Use HTTPS link or select SSH link if you have set up SSH. For this example case, I am going to show with my own repo Git-Cheat-Cheat.
+
+<p align="center"> 
+  <kbd>
+    <img src="img/clone1.png">
+  </kbd>
+</p>
+
+<p align="center"> 
+  <kbd>
+    <img src="img/clone1-1.png">
+  </kbd>
+</p>
+
+* Now navigate to the folder where you want to copy the remote repo (for example a folder named git in my desktop). This is called cloning of a remote repo to your local machine. For this example case Now, enter the following command:
+```
+git clone <remote repo link>
+```
+
+<p align="center"> 
+  <kbd>
+    <img src="img/clone2.png">
+  </kbd>
+</p>
+
+* A folder with the repo name (Git-Cheat-Sheet) got created in the directory I chose.
+
+<p align="center"> 
+  <kbd>
+    <img src="img/clone3.png">
+  </kbd>
+</p>
+
+* Update the files / folders you want. If there is no change to any of the files / folders, you can't push it.
+
+* After changing the necessary files, navigate to the folder with the repo name & type the following commands:
+
+```
+git add .
+git commit -m 'yourOwnRefernceWords'
+git push -u origin master
+```
+* Congratulations, you have successfully updated files / folders of a remote repository.
