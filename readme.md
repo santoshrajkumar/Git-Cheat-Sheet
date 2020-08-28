@@ -146,7 +146,7 @@ git push -u origin master
 
 <p align="center"> 
   <kbd>
-    <img src="img/clone1-1.png">
+    <img src="img/clone1-11.png">
   </kbd>
 </p>
 
