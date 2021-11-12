@@ -1,6 +1,6 @@
 # The Git Cheat Sheet
 
-> by [<b>S M Rajkumar</b>](https://santoshrajkumar.github.io) 
+> by [<b>S M Rajkumar</b>](https://santoshrajkumar.com) 
 
 > (https://santoshrajkumar.github.io)
 
